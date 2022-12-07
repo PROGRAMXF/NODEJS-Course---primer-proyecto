@@ -1,0 +1,21 @@
+{
+  "name": "primerproyecto",
+  "version": "0.0.1",
+  "description": "este es mi primer proyecto node.js",
+  "main": "app.js",
+  "scripts": {
+    "ejecutar": "node src/app.js #esto es un comentario",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "primero",
+    "proyecto",
+    "node"
+  ],
+  "author": "programxf",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
